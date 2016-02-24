@@ -1,0 +1,17 @@
+# visual studio files
+*.sdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.idb
+*.pdb
+*.exe
+*.ilk
+*.log
+*.obj
+*.lastbuildstate
+*.tlog
+*.ipdb
+*.iobj
+*.suo
+*.opendb
