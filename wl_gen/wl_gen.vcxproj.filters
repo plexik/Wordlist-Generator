@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="E:\Dropbox\Projects\wordlist_gen\wordlist_gen\wl_gen.cpp">
+    <ClCompile Include="wl_gen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
