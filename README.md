@@ -2,6 +2,8 @@
 Command line application that takes a list of words and uses them to generate a dictionary for use in targeted dictionary attacks.
 This tool was created with the intent to ease the production of dictionaries for use in password attacks against a researched target.
 
+It's basically me writing a currently-less-useful version of crunch.
+
 ## Usage
 ```
 ./wl_gen [options] -i infile -o outfile
@@ -30,7 +32,7 @@ So don't go passing in 100K word dictionaries - it probably won't end well.
 ## Features
 - fast
 - supports input and output piping
-- compiles on both linux and windows
+- compiles on both linux (kali 2.1, gcc) and windows (win10, vs2015)
 
 ## How it works
 
